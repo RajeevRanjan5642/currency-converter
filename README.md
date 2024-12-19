@@ -1,4 +1,4 @@
-## Currency Converter
+## Currency-Converter
 Currency-Converter is a user-friendly web application built using HTML, CSS, and JavaScript. This app leverages real-time data from a currency API to provide accurate and up-to-date exchange rates.
 
 ## Tech Stack
